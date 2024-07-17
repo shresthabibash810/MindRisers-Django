@@ -1,0 +1,1 @@
+{"username": "bibash", "password": "bibash123", "balance": 100}

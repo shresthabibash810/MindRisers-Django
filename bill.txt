@@ -1,0 +1,4 @@
+{"Buyer": "chandra", "Product": "Mobile", "Quantity": 3, "Total": 600000.0}
+{"Buyer": "chandra", "Product": "Mobile", "Quantity": 2, "Total": 400000.0}
+{"Buyer": "chandra", "Product": "Gimbal", "Quantity": 3, "Total": 75000.0}
+{"Buyer": "cocomusu", "Product": "Mobile", "Quantity": 3, "Total": 600000.0}

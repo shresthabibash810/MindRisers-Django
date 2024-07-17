@@ -1,0 +1,3 @@
+{"username": "bibash", "password": "bibash123", "user_type": "seller"}
+{"username": "chandra", "password": "chandra123", "user_type": "buyer"}
+{"username": "cocomusu", "password": "coco123", "user_type": "buyer"}
